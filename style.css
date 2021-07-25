@@ -17,7 +17,7 @@ header {
     width: 100%;
     min-width: 1200px;
     height: 90px;
-    background: #000;
+    background: #262626;
     margin: 0 auto;
     position: relative;
     color: #fff;
@@ -83,7 +83,7 @@ header nav .depth2 {
 }
 header nav .depth2 > li > a {
     display: block;
-    color: #000;
+    color: #262626;
     padding: 10px;
   }
   header nav .depth2 > li > a:hover {
@@ -124,13 +124,13 @@ header nav .depth2 > li > a {
       position: absolute;
       top: 349px;
       left: 160px;
-      color: #000;
+      color: #262626;
   }
   .btn-next {
       position: absolute;
       top: 349px;
       right: 160px;
-      color: #000;
+      color: #262626;
   }
   /* 메인 콘텐츠 영역 */
   #main {
@@ -174,7 +174,7 @@ header nav .depth2 > li > a {
   /* 버튼 */
   .btn {
     display: block;
-    background: #000;
+    background: #262626;
     text-align: center;
     color: #fff;
     padding-top: 10px;
@@ -218,7 +218,7 @@ header nav .depth2 > li > a {
     display: block;
     padding-top: 1.2em;
     padding-bottom: 1em;
-    color: #000;
+    color: #262626;
     background: #D9A842;
     font-size: 17px;
     font-weight: bold;
@@ -240,7 +240,7 @@ header nav .depth2 > li > a {
   footer {
     font-size: 14px;
     /* font-size: 0.87em; */
-    background: #000;
+    background: #262626;
     color: #fff;
     padding-top: 40px;
     padding-bottom: 40px;
